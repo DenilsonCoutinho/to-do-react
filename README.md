@@ -4,7 +4,7 @@
 <ul>
   <li>ReactJS</li>
    <li>Hooks(useEffects, useState)</li>
-  <li>Foi utilizado um banco de dados fictício.</li>
+  <li>Usei o Json-Server que simula uma API e permite fazer requisições assíncronas com um servidor fictício.</li>
    <li>Métodos(POST, PUT, DELETE)</li>
    
   
